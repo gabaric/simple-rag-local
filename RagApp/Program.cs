@@ -13,7 +13,7 @@ IEmbeddingGenerator<string, Embedding<float>> generator =
     new OllamaEmbeddingGenerator(new Uri("http://localhost:11434/"), "nomic-embed-text");
 
 IChatClient chatClient =
-    new OllamaChatClient(new Uri("http://localhost:11434/"), "phi3:mini");
+    new OllamaChatClient(new Uri("http://localhost:11434/"), "phi3:medium");
 
 Console.WriteLine("Ask a question. This bot is grounded in Zelda data due to RAG, so it's good at those topics.");
 #endregion
@@ -52,7 +52,8 @@ while (true)
     // Assemble the full prompt to the chat AI model using instructions,
     // the original user prompt, and the retrieved relevant data
     chatHistory.Add(new ChatMessage(ChatRole.User,
-                @$"Your are an intelligent, cheerful assistant who prioritizes answers to user questions using the data in this conversation. If you do not know the answer, say 'I don't know.'. 
+                @$"Your are an intelligent, cheerful assistant who prioritizes answers to user questions using the data in this conversation. 
+                If you do not know the answer, say 'I don't know.'. 
                 Answer the following question: 
                 
                 [Question]
