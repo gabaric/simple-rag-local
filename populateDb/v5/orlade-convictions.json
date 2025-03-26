@@ -1,0 +1,986 @@
+[
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Données, Outils et Processus au service des Collaborateurs",
+        "text_content": "Pour rendre tangibles les projections, et améliorer l’efficacité des échanges, les données manipulées doivent être fiables et partagées."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Données, Outils et Processus au service des Collaborateurs",
+        "text_content": "Cette pratique passe naturellement par des outils de partage de ces données, mais surtout par l’adhésion des collaborateurs à leur utilisation : Il faut rendre ces outils proches des utilisateurs et faciles d’usage. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Données, Outils et Processus au service des Collaborateurs",
+        "text_content": "La mise en place de l’outil devra donc être accompagnée, comme le sont toutes les transformations. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Pour exécuter cette mission dans le délai imparti (4 semaines de développement, 4 semaines de déploiement), il est \t\tindispensable de la confier à une équipe expérimentée",
+        "text_content": "dans le domaine des outils opérationnels pour un outil au plus près du besoin."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Pour exécuter cette mission dans le délai imparti (4 semaines de développement, 4 semaines de déploiement), il est \t\tindispensable de la confier à une équipe expérimentée",
+        "text_content": "en capacité de conduire le changement et d’accompagner les utilisations dans la prise en main  "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Pour exécuter cette mission dans le délai imparti (4 semaines de développement, 4 semaines de déploiement), il est \t\tindispensable de la confier à une équipe expérimentée",
+        "text_content": "en capacité de proposer des indicateurs pertinents permettant d’informer et de prendre des décisions."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": "Pour exécuter cette mission dans le délai imparti (4 semaines de développement, 4 semaines de déploiement), il est \t\tindispensable de la confier à une équipe expérimentée",
+        "text_content": "sur la visualisation et gestion de portefeuille de projets,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suivi des Projets DCE",
+        "title": " ",
+        "text_content": "Un processus et un outil adapté au contexte et adopté par les équipes"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "agile, adaptable, pensé avec une « Expérience utilisateur » simple, même si les modèles sont complexes."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "qui intègre les articulations entre l’ensemble des outils de l’écosystème RTE (« urbanisme »)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Une bonne coordination entre les livrables des  Lots 1 et 2 de la présente offre. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "L’expertise métier des consultants, garante de la légitimité dans l’expression des enjeux, des besoins des utilisateurs et développeurs de modèles."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "La connaissance des méthodes standard de chiffrage des métiers de l’infrastructure, basées sur les unités d’œuvre en relation avec les principes de la méthode ECV (Eléments de Consistance Valorisée)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "l’environnement projet D&I et des outils (SIEPR, notamment)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "la diversité des projets industriels de RTE (Politiques Techniques) et de leur articulation avec les livrables (Unités d’œuvre)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "la connaissance des modèles d’estimation utilisés, différents selon les phases du processus décisionnel (chiffrage RCD, UO ; méthode aux ECV)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "L’implication dans le développement des modèles de charge RTE et des inducteurs qui influencent les chiffrages, en relation étroite avec les experts (dans le cadre du projet Portefeuille Maille 1)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Chez d’autres grands acteurs de l’Energie (Total Energie)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Capacité à développer des POC (notamment le  « Portefeuille Maille 1», POC à l’échelle 1)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Capacité à intégrer des solutions « Etagère » au sein des métiers (cas de Total Energies)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Une équipe expérimentée, pluridisciplinaire, connaissant RTE, disponible et opérationnelle  immédiatement."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": "Nous sommes convaincus que la réponse à ce besoin passe par - La définition d’un outil de calcul des coûts",
+        "text_content": "Notre mantra « Make it simple », make it visible, make it Hapen "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "AMOA Pilotage de Projet Ingénierie",
+        "title": " ",
+        "text_content": "Notre expertise : s’intégrer et simplifier les environnements complexes  "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "La mission de RTE consiste à maintenir à tout moment l’équilibre offre/demande (EOD) du système électrique, et d’en garantir la sûreté."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "Dans l’avenir, l’offre, comme la demande, vont être soumis à de plus grandes variabilités (liées, entre autres, à l’introduction des énergies renouvelables, à l’introduction sur le réseau de nouveaux consommateurs, à épisodes climatiques brutaux)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "Afin d’améliorer sa capacité à anticiper et à réagir efficacement, RTE a lancé un programme de R&D, décomposé en 3 feuilles de route (flux, EOD, CT) pour définir de nouvelles solutions innovantes pour les opérateurs en charge de cette régulation."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "RTE doit réguler le système électrique de demain en s’assurant de la réussite de son programme R&D avec le niveau de performance attendu."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "Ainsi RTE a besoin d’un support supplémentaire aux équipes R&D pour appuyer le pilotage du programme et de ses Feuilles de Routes."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Le phase de cadrage du projet étant clé elle nécessite un investissement et une expertise plus importante."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "L’expertise en gestion de projet permet de développer les méthodologies et outils les plus adaptés au contexte."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "La connaissance de RTE et une approche pragmatique permet de gagner l’adhésion de l’ensemble des parties prenantes et l’assimilation des rituels et outils."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Les compétences comportementales sont fondamentales pour s’adresser aux différents niveaux de l’organisation et fédérer les équipes autour du programme."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Une communication efficace permet de mettre en visibilité les avancés du programme. et de créer engouement et adhésion."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Notre valeur ajoutée",
+        "text_content": "Notre connaissance de RTE nous permettant d’être pertinent et à forte valeur-ajoutée rapidement."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Notre valeur ajoutée",
+        "text_content": "Notre expertise sur tous les aspects du pilotage de programme (feuille de route, planning, suivi budgétaire, indicateurs de performances, risques et opportunités, plans d’actions, etc.) et les outils associés."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Notre valeur ajoutée",
+        "text_content": "Nos consultants qui ont tous des expériences opérationnelles significatives leur permettant d’avoir une approche pragmatique et adaptée au contexte."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": "Notre valeur ajoutée",
+        "text_content": "Notre capacité à communiquer efficacement et à tous les niveaux, ainsi que notre devise : « Make it Simple, Make it Visible, Make it Happen »."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui au pilotage PILS",
+        "title": " ",
+        "text_content": "Piloter l’innovation pour réussir la régulation du Système Electrique de demain"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": " ",
+        "text_content": "La continuité, notre expertise des programmes et projets complexes, la connaissance de D&I"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "Des intervenants seniors, autonomes, proactifs, sachant adopter la posture du programme par rapport aux projets,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "Des consultants capables de s’adresser aux différents niveaux de l’entreprise et d’animer les parties prenantes pour atteindre les objectifs projet/programme"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "La maitrise des outils et techniques de pilotage des programme complexes pour construire les indicateurs pertinents,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "La bonne connaissance de l’environnement RTE, et au-delà, du programme THT, des outils de pilotage mis en place;"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "Une très bonne maitrise outils Excel et de BI, au cœur du besoin de la prestation,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par",
+        "text_content": "La réutilisation et l’adaptation de tableaux de bords et modèles de données éprouvés pour disposer au plus vite de nouveaux outils."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Et de la Direction de l’Ingénierie (à travers notamment le diagnostic de performance réalisé par OP²) et de ses parties prenantes"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "De son référentiel de pilotage des projets de D&I"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "De la configuration et des exigences régionales du pilotage des projets"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Pour le lot 1 : la continuité :  le consultant proposé pour le programme THT travaille déjà sur celui-ci, il connait les outils, les processus  et les besoins d’amélioration. Il est déjà en interface régulière avec la cellule des grands projets."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Pour le lot 2 : un consultant ayant l’expérience des contextes contraints, ayant l’expérience de projets complexes, et qui sera accompagné, dès le début de la mission dans la définition du tableau de bord.   "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Le pilotage et l’accompagnement de la mission par  un sénior OP2, dédié à RTE."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Une équipe disponible et opérationnelle immédiatement, que n’engendrera pas de coût ni de délai pour RTE, liés à la prise en main de sujets."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Des consultants ayant l’expérience de projets de développement outil (type BI)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Suite Programme THT",
+        "title": "Nous sommes convaincus qu’une réponse efficace à ce besoin passe par - Notre proposition de valeur s’appuie sur",
+        "text_content": "Des consultants expérimentés : ayant développé et utilisé des tableaux de bord pour des portefeuille RTE (dont plan stratégique IdF, programme THT, support au réseau mer DIIREM) facilitant leur transposition aux besoins du programme Adaptation/Raccordement."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": " ",
+        "text_content": "Des experts des projets complexes, capable de piloter en proximité et de préparer le changement"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "Le Programme NAZA est clé et stratégique pour RTE et le réseau de demain, il nécessite donc une communication est un suivi adapté aux différents niveaux de directions"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": " Le caractère innovant du Programme Naza et sa complexité technique demande une agilité dans son pilotage et son déploiement "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "La forte technicité du programme mais également le Grand nombre de parties prenantes impliqués sur ce programmes ( Métiers, régions, national) demandent un cadencement rythmé pour l’animation et le soutien des pilotes"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "La réussite du projet Naza réside dans la capacité à embarquer les différents acteurs en régions, dans les métiers aux interfaces. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "Dans une organisation multidimensionnelle telle que  RTE il est nécessaire de piloter par les risques afin d’anticiper les dérapages des objectifs (couts, délais, qualité) du programme"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "Être assertif et à l’écoute afin d’ identifier les bonnes pratiques entre les régions et mettre en œuvre les synergies"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "La montée en cadence importante du nombre de projets régionaux,  impose de savoir cadencer et animer "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Nos convictions",
+        "text_content": "Avoir le vécu opérationnel de ce type de déploiement  de programme dans l’énergie afin d’appréhender rapidement les enjeux et les inducteurs de performance."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Notre apport de valeur",
+        "text_content": "La performance des projets complexes, notre métier depuis 15 ans : Notre expertise se décline sur tous les aspects du pilotage de programme (feuille de route, planning, suivi budgétaire, indicateurs de performances, risques et opportunités, plans d’actions, etc.) et les outils associés."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Notre apport de valeur",
+        "text_content": "Une équipe de spécialistes de la chefferie de projet, ayant démontrés leur valeur opérationnelle, qui porte un véritable savoir-faire et une connaissance approfondie et appliquée de la gestion des projets industriels complexes. Ces expériences significatives garantissent une approche pragmatique, agile et adaptée au contexte. Nos équipes sont systématiquement intégrée à l’écosystème Op2, composé de pairs, qui peuvent à tout moment être sollicités sur des problématiques particulières et apporter un regard extérieur."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Notre apport de valeur",
+        "text_content": "Notre connaissance de RTE qui nous permet d’être pertinents et de rapidement apporter une forte valeur-ajoutée sur chacune de nos interventions"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Notre apport de valeur",
+        "text_content": "Notre savoir-faire démontré en conduite du changement, porté par des équipes qui travaillent avec méthode et savoir-être pour fédérer les équipes. Des consultants autonomes, structurants et empathiques, qui comprennent les enjeux des transformations (humains notamment) et sont capables de cadencer le projet tout en restant à l’écoute des signaux faibles."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui gestion des projet NAZA",
+        "title": "Notre apport de valeur",
+        "text_content": "Notre capacité à communiquer efficacement et à tous les niveaux, portée par notre devise : « Make it Simple, Make it Visible, Make it Happen »."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "Des ressources qui disposent d’une connaissance approfondie et transverse des méthodes de gestion de projet impliquant des activités d’ingénierie, pour pouvoir proposer les meilleures pratiques les plus adaptées."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "Une équipe qui connaît RTE, les spécificités de votre métier et les activités de DCR pour garantir des propositions et un accompagnement sur mesure."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "La capacité d’animer, de cadencer et de fédérer des équipes opérationnelles dans la recherche et la mise en oeuvre de solutions pragmatiques & innovantes"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "Une approche « hands-on » permettant d’identifier rapidement les contraintes, les leviers à actionner et justifications nécessaires face aux situations rencontrées, et ainsi démontrer la faisabilité avec légitimité"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "Une capacité à intervenir dans un environnement complexe avec des parties prenantes multiples et à différents niveaux et avec une visibilité forte, et ainsi s’assurer que toutes les interfaces sont prises en comptes et intégrées dans l’amélioration"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": "Nos convictions - Toutes les organisations doivent progresser pour s’adapter à l’évolution de leur marché. La réponse à l’augmentation des demandes de raccordement passe par la poursuite de l’amélioration de votre processus en phase avec les contraintes spécifiques qui y sont liées (régulation CRE notamment). Pour parvenir à vous améliorer sereinement et tenir les objectifs de performance rendus nécessaires, vous devez vous appuyer sur",
+        "text_content": "Enfin, les risques majeurs pour la réussite d’une transformation sont l’incompréhension et l’insatisfaction liées à de nouvelles méthodes et pratiques. Vous devez donc vous appuyer sur une équipe fédératrice et pédagogue, capable d’une communication adaptée et d’un reporting efficace pour tenir les engagements."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Refonte Processus de Raccordement DCR",
+        "title": " ",
+        "text_content": "Savoir prendre en compte vos contraintes, faire converger les équipes vers de nouvelles solutions, communiquer"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Des compétences  métier ciblées sont nécessaires, notamment sur la consolidation charge / capacité."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Les compétences comportementales sont fondamentales pour s’adresser aux différents niveaux de l’organisation et fédérer les équipes autour de la mission."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Le cadrage de la mission du PMO MERLIN est clé, car cette mission sera longue et devra être suffisamment agile pour s’adapter aux évolutions de périmètre et des besoins.  "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "Comme, dans le même temps, la mission MERLIN est déjà active, il faut mettre en place une équipe capable d’adresser simultanément le pilotage et le cadrage."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Nos Convictions  dans ce contexte, nous sommes convaincus que",
+        "text_content": "La connaissance de RTE, et des projets DIIReM permet une montée en compétence et une prise en main rapide."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre capacité à structurer les projets complexes, sur les différents axes du métier PMO (pilotage en portefeuille, analyse Charge/Capa, planification Opérationnelle, gestion des risque, gestion des coûts). "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre capacité à animer différents métiers, sur différents projets complexes, déjà éprouvée chez RTE."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre connaissance de RTE, nous permettant d’être pertinents et à forte valeur-ajoutée rapidement (missions en cours avec DIIReM, DI, PISSIN,  DCR, CNER, R&D, Exploitation)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre vécu opérationnel, notre capacité à capter auprès des PMO métier les interfaces techniques SI&Télecom, les expliciter et les planifier."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre capacité à exprimer et concilier les exigences SI et Métier."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": "Notre valeur ajoutée   Elle s’appuie sur les éléments suivants",
+        "text_content": "Notre capacité à proposer des animations (rituels, outils) en mesure de gagner l’adhésion de l’ensemble des parties prenantes."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "PMO mission MERLIN",
+        "title": " ",
+        "text_content": "Cadrage, Connaissance terrain, Expertise et animation PMO"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Connaître D&I, le portefeuille et le pilotage des projets chez RTE "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Pour atteindre vos objectifs de réalisation, il est fondamental que la MOA Réseaux dispose d’outils et de processus adaptés."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Etant donné la complexité de l’environnement RTE et la préexistence de cycles de gouvernance, vous devez vous appuyer sur une équipe qui connaît RTE, D&I, le portefeuille, vos processus et vos pratiques de conduite de projet."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Ces conditions sont nécessaires pour favoriser l’autonomie et la proactivité des PMO afin de vous apporter un appui pertinent."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Savoir animer et piloter des portefeuilles complexes"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Les pratiques que la MOA Réseaux doit porter doivent être communes, comprises et acceptées."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Il est donc important d’engager les équipes à travers des démarches de co-construction lorsque nécessaire et de savoir accompagner le changement sur le terrain en étant disponible et compétent pour faire, faire-faire, expliquer, aider et porter une écoute active auprès des intervenants."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Face à la volumétrie et la diversité des projets, vous devez vous appuyer sur des ressources qui ont démontré leur pédagogie et leur capacité de communication en accompagnant des projets, portefeuilles et processus dans des contextes similaires (gestionnaires de réseau, secteur de l’énergie), nécessitant rigueur, polyvalence et proximité avec les équipes."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Connaître les outils RTE et être expert du traitement de données projets"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "L’atteinte des objectifs repose aussi sur la donnée, dont le traitement est complexe, dans un environnement comme RTE avec plus de 1900 projets de natures différentes."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Pour y parvenir, l’équipe PMO doit au-delà de son appétence forte pour les outils et l’analyse, connaître ceux utilisés par RTE sur le portefeuille pour rapidement intégrer les bons indicateurs stratégiques dans des tableaux de bord adaptés."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui MOA reseaux",
+        "title": " ",
+        "text_content": "Connaître l’environnement de la MOA Réseaux, les portefeuilles complexes & savoir traiter la donnée"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": " ",
+        "text_content": "Adresser l’augmentation du volume d’activité en activant les leviers de performance"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "D’expérience, il est possible d’adresser une augmentation du volume d’activités en favorisant",
+        "text_content": "L’optimisation des processus et des méthodes de travail,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "D’expérience, il est possible d’adresser une augmentation du volume d’activités en favorisant",
+        "text_content": "Une planification adaptée et tournée vers les problématiques (respect des délais, adéquation charge/capa…),"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "D’expérience, il est possible d’adresser une augmentation du volume d’activités en favorisant",
+        "text_content": "Une externalisation judicieuse et maîtrisée pour permettre de l’agilité organisationnelle et garantir les bonnes compétences aux bons endroits."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "D’expérience, il est possible d’adresser une augmentation du volume d’activités en favorisant",
+        "text_content": "Nous savons aussi qu’une démarche d’externalisation n’est pas neutre socialement et peut faire peur aux équipes. Or si elle est bien préparée, elle est rapidement comprise et adoptée car elle s’affiche comme une véritable opportunité de se focaliser sur son métier cœur, de gagner en agilité et ainsi contribuer à la performance globale."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "Pour avoir du succès dans votre transformation au regard de l’environnement RTE, nous sommes convaincus que vous devez sécuriser la démarche en vous appuyant sur",
+        "text_content": "Une approche déjà éprouvée avec succès chez RTE, qui minimise la sollicitation de vos ressources déjà très occupées,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "Pour avoir du succès dans votre transformation au regard de l’environnement RTE, nous sommes convaincus que vous devez sécuriser la démarche en vous appuyant sur",
+        "text_content": "Une expertise des processus de planification intégrés (de la stratégie aux opérations) dans des environnements complexes pour se concentrer sur les optimisations nécessaires,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "Pour avoir du succès dans votre transformation au regard de l’environnement RTE, nous sommes convaincus que vous devez sécuriser la démarche en vous appuyant sur",
+        "text_content": "Une conduite du changement initiée dès le démarrage afin de minimiser les résistances internes et assurer l’adhésion de l’ensemble des parties prenantes,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "Pour avoir du succès dans votre transformation au regard de l’environnement RTE, nous sommes convaincus que vous devez sécuriser la démarche en vous appuyant sur",
+        "text_content": "Un partenaire qui pilote en mode projet, avec agilité, pour s’adapter et proposer des solutions efficaces."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui PMO DCR",
+        "title": "Pour avoir du succès dans votre transformation au regard de l’environnement RTE, nous sommes convaincus que vous devez sécuriser la démarche en vous appuyant sur",
+        "text_content": "Op2 s’est construit autour d’un objectif : démontrer qu’on peut réussir un volume plus important de projets malgré des ressources limitées, à condition de savoir activer les bons leviers. Nos consultants sont d’anciens opérationnels venus au conseil, qui partagent leur expérience et leur expertise des projets complexes dans cet objectif."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Le changement d’un outil de planification doit être considéré comme une transformation complexe et donc être piloté comme tel en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "La transversalité du projet et les difficultés aux interfaces (outils et entités impactées)"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Le changement d’un outil de planification doit être considéré comme une transformation complexe et donc être piloté comme tel en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Les risques liés à la mise en œuvre du changement de manière très rapide"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Le changement d’un outil de planification doit être considéré comme une transformation complexe et donc être piloté comme tel en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Le planning de déploiement rapide"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Le changement d’un outil de planification doit être considéré comme une transformation complexe et donc être piloté comme tel en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Le cadencement et l’organisation de la montée en maturité"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Pour avoir un pilotage performant qui vous aide à répondre à vos enjeux, vous devez vous assurer que l’outil est au service de vos projets et non l’inverse et donc",
+        "text_content": "Être accompagnés par des experts des projet qui comprennent les besoins et les enjeux des projets complexes et de RTE en particulier"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Pour avoir un pilotage performant qui vous aide à répondre à vos enjeux, vous devez vous assurer que l’outil est au service de vos projets et non l’inverse et donc",
+        "text_content": "Considérer ce nouvel outil comme un vecteur d’amélioration de vos processus pour gagner en performance et en fluidité"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Cet outil de planification unique est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur un partenaire qui a déjà vécu des déploiements d’outils de planification de cette envergure et capables de",
+        "text_content": "Challenger l’éditeur et l’intégrateur dans la mise en œuvre de solutions, au bénéfice des métiers"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Cet outil de planification unique est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur un partenaire qui a déjà vécu des déploiements d’outils de planification de cette envergure et capables de",
+        "text_content": "Comprendre le quotidien des chefs de projets RTE, être à l’écoute et accompagner"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Cet outil de planification unique est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur un partenaire qui a déjà vécu des déploiements d’outils de planification de cette envergure et capables de",
+        "text_content": "Arbitrer entre les différents acteurs et faire converger les décisions sur le juste nécessaire"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Les délais ambitieux de déploiement nécessitent une bonne connaissance de votre environnement dès le départ pour limiter les sollicitations auprès des sachants métiers et rapidement comprendre",
+        "text_content": "Vos objectifs et processus associés pour identifier les dénominateurs communs entre entités"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": "Les délais ambitieux de déploiement nécessitent une bonne connaissance de votre environnement dès le départ pour limiter les sollicitations auprès des sachants métiers et rapidement comprendre",
+        "text_content": "Les relations aux interfaces et les impacts du nouvel outil"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui déploiement MAESTRO",
+        "title": " ",
+        "text_content": "Un changement majeur et ambitieux qui nécessite une connaissance fine de votre environnement"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction d’outils dont l’ambition est de servir quotidiennement plusieurs centaines de collaborateurs doit être considérée comme une transformation complexe et donc être pilotée comme telle, en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "La transversalité des projets et les difficultés aux interfaces (outils et entités impactées),"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction d’outils dont l’ambition est de servir quotidiennement plusieurs centaines de collaborateurs doit être considérée comme une transformation complexe et donc être pilotée comme telle, en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Les risques liés à la mise en œuvre du changement de manière rapide,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction d’outils dont l’ambition est de servir quotidiennement plusieurs centaines de collaborateurs doit être considérée comme une transformation complexe et donc être pilotée comme telle, en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Le planning de déploiement à respecter,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction d’outils dont l’ambition est de servir quotidiennement plusieurs centaines de collaborateurs doit être considérée comme une transformation complexe et donc être pilotée comme telle, en considérant toutes ses composantes et en pilotant les bons critères pour atteindre la cible",
+        "text_content": "Le cadencement et l’organisation de la montée en maturité."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "Pour avoir un pilotage performant qui vous aide à répondre à vos enjeux, vous devez vous assurer que l’outil est au service de vos équipes et non l’inverse et donc",
+        "text_content": "Être accompagnés par des experts qui comprennent les besoins et les enjeux des projets complexes (MAESTRO) et des spécificités de RTE en particulier (Processus PAPT et SAPHIR)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "Pour avoir un pilotage performant qui vous aide à répondre à vos enjeux, vous devez vous assurer que l’outil est au service de vos équipes et non l’inverse et donc",
+        "text_content": "Considérer ces nouveaux outils comme des vecteurs d’amélioration de vos processus pour gagner en performance et en fluidité."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction de MAESTRO est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur une AMOA « tour de contrôle » qui a déjà vécu des déploiements d’outils de planification de cette envergure et capable de",
+        "text_content": "Challenger l’éditeur et l’intégrateur dans la mise en œuvre de solutions, au bénéfice des métiers,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction de MAESTRO est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur une AMOA « tour de contrôle » qui a déjà vécu des déploiements d’outils de planification de cette envergure et capable de",
+        "text_content": "Comprendre le quotidien des chefs de projets RTE, être à l’écoute et accompagner,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction de MAESTRO est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur une AMOA « tour de contrôle » qui a déjà vécu des déploiements d’outils de planification de cette envergure et capable de",
+        "text_content": "Arbitrer entre les différents acteurs et faire converger les décisions sur le juste nécessaire,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "L’introduction de MAESTRO est un changement majeur pour vos équipes et fera nécessairement face à des écueils opérationnels. Pour les anticiper et les maîtriser, vous devez vous appuyer sur une AMOA « tour de contrôle » qui a déjà vécu des déploiements d’outils de planification de cette envergure et capable de",
+        "text_content": "De manière corollaire, le développement de SAPHIR devra affronter ces mêmes difficultés opérationnelles, qui pourront être captées en « tour de contrôle », grâce à la connaissance fine des processus PAPT et des besoins des utilisateurs. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "La bonne connaissance de votre environnement permettra, dès le début de la mission, de limiter les sollicitations auprès des sachants métiers et rapidement comprendre",
+        "text_content": "Vos objectifs et processus associés pour identifier les dénominateurs communs entre entités,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": "La bonne connaissance de votre environnement permettra, dès le début de la mission, de limiter les sollicitations auprès des sachants métiers et rapidement comprendre",
+        "text_content": "Les relations aux interfaces et les impacts des nouveaux outils."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Appui Projet SAPHIR & MAESTRO",
+        "title": " ",
+        "text_content": "Des changements majeurs et ambitieux qui nécessitent une connaissance fine de votre environnement"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": " ",
+        "text_content": "Avec un portefeuille de projets aussi foisonnant, le pilotage individuel des projets se doit d’être simple, adapté et donc applicable facilement. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "S’assurer que les plannings sont structurés selon les bonnes pratiques, construits avec des hypothèses robustes, réalisables, et selon des méthodes standardisées."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "Examiner si le référentiel de planification est applicable et appliqué,"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "Identifier le niveau de maturité des Managers de projets vis-à-vis de la gestion des délais et notamment des marges."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "Analyser les outils leur adaptabilité notamment dans la phase de pilotage"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "Vérifier que la gouvernance définie, est implémentée et qu’elle permet de piloter les marges du projet."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Cet audit devra permettre de",
+        "text_content": "D’adapter le référentiel de planification (outils, process gouvernance) aux enjeux et complexité des projets et des différentes phases."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "Une expertise métier de la planification de projets complexes dans des secteurs d’activité variés apporte une vision objective des meilleures pratiques à mettre en \tplace. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "La complémentarité de l’équipe et la variété de compétences mobilisées rend possible une vision 360 "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "La connaissance de secteurs variés aide à identifier les points durs qu’il convient de traiter en priorité et à mettre en évidence les sujets à tirer sur l’amélioration du processus de planification des projets "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "L’expérience des audits de maturité de planification dans différentes industries permettra d’ intégrer les éléments clés et être opérationnel rapidement"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "La connaissance de DI, des processus de planification et des outils permet de réduire le temps d’appropriation de l’écosystème planning "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": "Pour auditer le panorama de la planification des projets de DI dans un temps contraint (4 semaines) et proposer des pistes de solutions pragmatiques, efficaces et pérennes, nous sommes convaincus que",
+        "text_content": "L’organisation agile de l’équipe et un pilotage de la mission rigoureux et fréquent permettra de répondre au planning contraint des audits."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Diag maturite planification",
+        "title": " ",
+        "text_content": "Un audit de maturité du référentiel de planification projets dans un délais court"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": "La démarche d’économie circulaire est complexe car elle impacte de multiples interfaces sur toute la chaîne de valeur. Elle est nécessairement portée par des partenariats avec les fournisseurs qui doivent s’inscrire dans la durée. Pour la rendre optimale, il est donc nécessaire de la corréler aux capacités d’engagement des partenaires à chaque étape du cycle de vie d’un équipement. Cela nécessite de",
+        "text_content": "Connaître les projets complexes pour pouvoir identifier les leviers potentiels, les risques et les opportunités"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": "La démarche d’économie circulaire est complexe car elle impacte de multiples interfaces sur toute la chaîne de valeur. Elle est nécessairement portée par des partenariats avec les fournisseurs qui doivent s’inscrire dans la durée. Pour la rendre optimale, il est donc nécessaire de la corréler aux capacités d’engagement des partenaires à chaque étape du cycle de vie d’un équipement. Cela nécessite de",
+        "text_content": "Avoir l’expertise suffisante pour porter une vision globale et critique de la chaîne de valeur des équipements, de la conception au recyclage et permettre des prises de décision"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": "La démarche d’économie circulaire est complexe car elle impacte de multiples interfaces sur toute la chaîne de valeur. Elle est nécessairement portée par des partenariats avec les fournisseurs qui doivent s’inscrire dans la durée. Pour la rendre optimale, il est donc nécessaire de la corréler aux capacités d’engagement des partenaires à chaque étape du cycle de vie d’un équipement. Cela nécessite de",
+        "text_content": "La mise en place de l’économie circulaire contribue à l’amélioration de la performance de la supply-chain et de l’empreinte carbone. La cartographie de l’écosystème industriel est la première brique à poser dans cette démarche."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": "La démarche d’économie circulaire est complexe car elle impacte de multiples interfaces sur toute la chaîne de valeur. Elle est nécessairement portée par des partenariats avec les fournisseurs qui doivent s’inscrire dans la durée. Pour la rendre optimale, il est donc nécessaire de la corréler aux capacités d’engagement des partenaires à chaque étape du cycle de vie d’un équipement. Cela nécessite de",
+        "text_content": "Maîtriser les concepts de l’économie circulaire et les avoir déjà mis en œuvre dans d’autres projets permet de faciliter la réalisation de l’état des lieux auprès des équipes et des fournisseurs. Cela permet de sécuriser la qualité des données récoltées."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": "La démarche d’économie circulaire est complexe car elle impacte de multiples interfaces sur toute la chaîne de valeur. Elle est nécessairement portée par des partenariats avec les fournisseurs qui doivent s’inscrire dans la durée. Pour la rendre optimale, il est donc nécessaire de la corréler aux capacités d’engagement des partenaires à chaque étape du cycle de vie d’un équipement. Cela nécessite de",
+        "text_content": "Enfin, savoir intégrer l’économie circulaire à son écosystème induit nécessairement du changement dans les modes de pensée et de travail. La connaissance de RTE permet de rapidement adapter la démarche afin d’être en adéquation avec le fonctionnement des équipes tout en étant force de proposition. Savoir fédérer les équipes autour d’un objectif commun et porter une communication adaptée à chaque niveau est un élément facilitateur de la démarche. Cela nécessite de s’appuyer sur l’expérience des projets de transformation et de la conduite du changement."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Economie Circulaire",
+        "title": " ",
+        "text_content": "Une démarche à accompagner en mode projet en proposant une expertise dans les projets industriels et de revalorisation"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Benchmark Organisation Direction Grands Projets",
+        "title": " ",
+        "text_content": "Favoriser la réussite du benchmark: expertise métier et capitalisation, séniorité, connaissance de votre environnement"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Benchmark Organisation Direction Grands Projets",
+        "title": " ",
+        "text_content": "Le benchmark est un moyen rapide et efficace pour imaginer de nouvelles façons de travailler et améliorer/adapter son organisation. Pour cela la source de données doit être fiable et adaptée à votre contexte. Chez Op2 nous capitalisons sur nos expériences clients uniques pour proposer un large choix d’organisations à comparer qui fait sens en regard de votre contexte industriel."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Benchmark Organisation Direction Grands Projets",
+        "title": " ",
+        "text_content": "Au-delà des choix des organisations, la pertinence d’un benchmark dépend la capacité à analyser la donnée et à la contextualiser. Le risque principal du benchmark est d’obtenir un rapport « étagère » de généralités qui soit hors sol et manque de recul opérationnel : La séniorité opérationnelle des consultants qui contribuent au benchmark est nécessaire pour apporter un éclairage pragmatique et applicable."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Benchmark Organisation Direction Grands Projets",
+        "title": " ",
+        "text_content": "Comme le contexte et les enjeux diffèrent pour chaque entreprise, la mise en perspective d’une solution d’organisation doit mettre en évidence les éléments transposables. Pour y parvenir il faut savoir collecter la donnée nécessaire, catégoriser les axes prédominants d’amélioration de chaque cas étudié. S’appuyer sur des consultants qui portent une véritable expertise opérationnelle, impliqués directement dans la mise en œuvre de transformations d’organisation et maîtrisant les portefeuilles complexes de projets, apporte la légitimité terrain nécessaire à cette collecte et cette analyse."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "Benchmark Organisation Direction Grands Projets",
+        "title": " ",
+        "text_content": "Enfin, le benchmark doit être réalisé dans un temps court (2 mois). Pour y parvenir, l’expertise de l’équipe doit être complétée par une bonne connaissance et une parfaite compréhension de RTE, de DIIREM et de l’environnement projets auquel vous faites face. "
+    },
+    {
+        "context": "convictions",
+        "name_offer": "APPUI R&D BIODIVERSITE",
+        "title": " ",
+        "text_content": "Des missions axées sur les centres d’intérêt de chacun."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "APPUI R&D BIODIVERSITE",
+        "title": " ",
+        "text_content": "Une appétence pour la thématique centrale (ici la Biodiversité, l’Environnement dans les projets d’énergie)."
+    },
+    {
+        "context": "convictions",
+        "name_offer": "APPUI R&D BIODIVERSITE",
+        "title": " ",
+        "text_content": "L’expertise en gestion de projet, pour développer et adapter les méthodologies et les outils"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "APPUI R&D BIODIVERSITE",
+        "title": " ",
+        "text_content": "Une communication efficace, comme atout de la promotion des travaux de la R&D"
+    },
+    {
+        "context": "convictions",
+        "name_offer": "APPUI R&D BIODIVERSITE",
+        "title": " ",
+        "text_content": "Un appui « PMO » organisé et engagé, au service de la Biodiversité "
+    }
+]
